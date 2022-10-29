@@ -1,4 +1,4 @@
-package com.obelieve.base.customviews;
+package com.obelieve.thirdsdklib;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.obelieve.basiccustomviews.test", appContext.getPackageName());
+        assertEquals("com.obelieve.thirdsdklib.test", appContext.getPackageName());
     }
 }

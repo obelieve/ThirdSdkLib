@@ -1,4 +1,4 @@
-package com.obelieve.base.customviews;
+package com.obelieve.thirdsdklib;
 
 import org.junit.Test;
 
